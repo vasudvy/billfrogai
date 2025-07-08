@@ -1,0 +1,8 @@
+include README.md
+include LICENSE
+include requirements.txt
+include pyproject.toml
+recursive-include billfrog *.py
+recursive-exclude billfrog __pycache__
+recursive-exclude billfrog *.pyc
+recursive-exclude billfrog *.pyo
