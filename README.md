@@ -188,8 +188,8 @@ Billfrog is open source! Contributions are welcome.
 ### Development Setup
 
 ```bash
-git clone https://github.com/billfrog-dev/billfrog
-cd billfrog
+git clone https://github.com/vasudvy/billfrogai
+cd billfrogai
 pip install -e ".[dev]"
 ```
 
